@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📍Manila, Philippines<br>🎓 Computer Engineering Student at Pamantasan ng Lungsod ng Maynila<br>📩 princessmae.sanchez@gmail.com</p>
+<p align="left">📍Manila, Philippines<br>🎓 Computer Engineering Student at Pamantasan ng Lungsod ng Maynila<br>📩 princessmae.sanchez04@gmail.com</p>
 
 ###
 
