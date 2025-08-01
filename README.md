@@ -1,4 +1,6 @@
-<h1 align="left">Hey 👋 I'm Princess Mae Sanchez!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Princess+Mae+Sanchez!+%F0%9F%8C%B8;Aspiring+Software+Developer+%F0%9F%92%BB;%E2%9C%A8+Turning+ideas+into+code+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
 ###
 
